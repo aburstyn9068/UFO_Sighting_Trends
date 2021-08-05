@@ -2,12 +2,13 @@ This repoisitory contains a project uncovering patterns of UFO sightings in the 
 
 We examined the relationship between household income, drug rates, location, weather and number of sightings of sightings seen. Data was found via various sources cited at the bottom of this document. Jupyter notebook was used to analyze data.
 
-We used an intial data set of ufo sigtings (1) to get general trends based on location (countries, and us states) and season. We found that the US, particularly California, Washington, Florida, New York, and Texas had the highest number of sightings. Additonally summer time had the highest number of sightings.
+We used an intial data set of ufo sigtings (1) to get general trends based on location (countries, and us states) and season. We found that the US, particularly California, Washington, Florida, New York, and Texas had the highest number of sightings. Additonally summer time had the highest number of sightings. Graphs of the state and season sightings data can be seen below.
 
-!(images/Sights_State.png)
-!(images/Sights_Season.png)
+![State Sightings](/images/Sights_State.png)
+![Season Sightings](/images/Sights_Season.png)
 
-We then used the ufo sighting data and compared it to median household incomes at the state level (2). We did not find a strong correlation between ufo sightings and household income.
+We then used the ufo sighting data and compared it to median household incomes at the state level (2). We did not find a strong correlation between ufo sightings and household income as can be seen in the graph below.
+![Income vs. Sightings](/Income_Graphs/income_ufo_1996.png)
 
 Next we compared the ufo sighitng data to the weather at the time of sighting (3). We looked at temperature, humidity, cloud cover, and visiblity. 
 We found that most ufo sightings occured at 70 degreed F. The range of temperatures within 1 standard deviation of the mean was 37.45 F and 73.46 F.
