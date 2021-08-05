@@ -4,8 +4,8 @@ We examined the relationship between household income, drug rates, location, wea
 
 We used an intial data set of ufo sigtings (1) to get general trends based on location (countries, and us states) and season. We found that the US, particularly California, Washington, Florida, New York, and Texas had the highest number of sightings. Additonally summer time had the highest number of sightings. Graphs of the state and season sightings data can be seen below.
 
-![State Sightings](/images/Sights_State.png)
-![Season Sightings](/images/Sights_Season.png)
+![State Sightings](/Images/Sights_State.png)
+![Season Sightings](/Images/Sights_Season.png)
 
 We then used the ufo sighting data and compared it to median household incomes at the state level (2). We did not find a strong correlation between ufo sightings and household income as can be seen in the graph below.
 ![Income vs. Sightings](/Income_Graphs/income_ufo_1996.png)
