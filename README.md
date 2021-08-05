@@ -14,6 +14,11 @@ Next we compared the ufo sighitng data to the weather at the time of sighting (3
 We found that most ufo sightings occured at 70 degreed F. The range of temperatures within 1 standard deviation of the mean was 37.45 F and 73.46 F.
 There was a positive correlation between humidity and ufo sightings.
 Ufo sightings were found to be highest during high visibility and 0 cloud cover.
+These results can be seen in the graphs below.
+
+![Income vs. Sightings](/Weather_Graphs/temperature_(f)_ufo.png)
+![Income vs. Sightings](/Weather_Graphs/humidity_ufo.png)
+![Income vs. Sightings](/Weather_Graphs/visibility_ufo.png)
 
 Lastly, we explored drug abuse arrests and ufo sightings (4). We found a positive correleation between ufo sightings and drug abuse arrests.
 
