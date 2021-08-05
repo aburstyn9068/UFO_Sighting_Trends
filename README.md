@@ -20,7 +20,9 @@ These results can be seen in the graphs below.
 ![Income vs. Sightings](/Weather_Graphs/humidity_ufo.png)
 ![Income vs. Sightings](/Weather_Graphs/visibility_ufo.png)
 
-Lastly, we explored drug abuse arrests and ufo sightings (4). We found a positive correleation between ufo sightings and drug abuse arrests.
+Lastly, we explored drug abuse arrests and ufo sightings (4). We found a positive correleation between ufo sightings and drug abuse arrests. The graph of the data from 2005 can be seen below.
+
+![Income vs. Sightings](/Drug_Graphs/drug_ufo_2005_ufo.png)
 
 The presentation slides can be found here:
 https://docs.google.com/presentation/d/1zpH9F5Sa0yrnEMJMARCfKpY0vb8LWrP9i0empp1TOdw/edit#slide=id.gcabb73d2ee_0_358
